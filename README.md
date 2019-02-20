@@ -4,7 +4,7 @@ What is the PrIMe Data Warehouse?
 ============
 * PrIMe Data Warehouse is a central repository for archiving chemical kinetic data relevant to the development of predictive models
 * Data spans across gasous and solid-fuels  
-* Records include associated measurement uncertainties
+* Records include full documentation of the experiment and the associated measurement uncertainties
 
 How does the API work? 
 ============
